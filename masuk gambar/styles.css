@@ -1,12 +1,11 @@
 
 
-/* Reset beberapa gaya default */
+
 body, h1, h2, p {
     margin: 0;
     padding: 0;
 }
 
-/* Gaya untuk body */
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
@@ -17,25 +16,22 @@ body {
     
 }
 
-/* Gaya untuk header */
 header {
     background-color:hsl(0, 100%, 5%);
     color: #fff;
     padding: 10px 0; hyphenate-limit-chars: ;
 }
 
-/* Gaya untuk h1 di dalam header */
 header h2 {
     margin: 0;
    
 }
 
-/* Gaya untuk main section */
 main {
     margin: 20px 0;
 }
 
-/* Gaya untuk section */
+
 section {
     background-color: #fff;
     border: 1px solid #ddd;
@@ -43,12 +39,10 @@ section {
     margin-bottom: 20px;
 }
 
-/* Gaya untuk h2 di dalam section */
 section h2 {
     color: #444;
 }
 
-/* Gaya untuk footer */
 footer {
     text-align: center;
     padding: 10px 0;
